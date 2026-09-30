@@ -14,12 +14,13 @@ Vila et al. (2026). Unbiased estimation of normalized scale-invariant indices un
 
 ## Repository Structure
 
-📄 [01_plots](./01-Dataset) # rfam08 and risfam08 datasets
+📄 [Data](./Data) # dataset
  
 
-📄 [02_auxiliar_functions](./02-Functions) # Basic codes for PDF, CDF, random sample generation and parameter estimation methods for EB model
+📄 [Codes](./Codes) # Basic codes for parameter estimation, plots, and gof.
 
-📄 [03_modeling](./03-Modelling) # Data modeling scripts (requires 01 and 02)
+📄 [Data](./Data) # Documentation
+
 
 ## Requirements
 
