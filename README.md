@@ -25,7 +25,7 @@ Vila et al. (2026). Unbiased estimation of normalized scale-invariant indices un
 ## Requirements
 
 - R (version ≥ 4.0 recommended)
-- Required R packages: stats, graphics / grDevices, utils
+- Required R packages: stats, graphics / grDevices, utils, sf, ggplot2, rnaturalearth, dplyr
 
 ## Citation
 
