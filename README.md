@@ -1,6 +1,6 @@
 ## Overview
 
-This page provides the codes for estimation and data fitting used in 
+This page provides the code for estimation and data fitting used in 
 Vila et al. (2026). Unbiased estimation of normalized scale-invariant indices under the Gamma distribution. Preprint.
 
 ## Author Information
@@ -23,8 +23,8 @@ Vila et al. (2026). Unbiased estimation of normalized scale-invariant indices un
 
 ## Requirements
 
-- R (version ≥ 4.5 recommended)
-- Required R packages: gsl, MASS, latex2exp, AdequacyModel, goftest
+- R (version ≥ 3.6.0 recommended)
+- Required R packages: stats, graphics / grDevices, utils
 
 ## Citation
 
