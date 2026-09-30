@@ -19,7 +19,7 @@ Vila et al. (2026). Unbiased estimation of normalized scale-invariant indices un
 
 📄 [Codes](./Codes) # Basic codes for parameter estimation, plots, and gof.
 
-📄 [Data](./nsii_applications.pdf) # Replication codes
+📄 [Rmd](./nsii_applications.pdf) # Replication codes in .Rmd
 
 
 ## Requirements
